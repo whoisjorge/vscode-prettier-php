@@ -1,0 +1,23 @@
+{
+  "window.title": "@whoisjorge - vscode-prettier-php",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#787CB5",
+    "titleBar.activeForeground": "#ffffff"
+  },
+
+  "editor.rulers": [99],
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+
+  "files.exclude": {
+    // ".editorconfig": true,
+    // ".gitattributes": true,
+    // ".gitignore": true,
+    // ".prettierignore": true,
+    // ".prettierrc": true,
+    // "LICENSE": true,
+    // "package-lock.json": true,
+    // "README.md": true,
+  }
+}

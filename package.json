@@ -1,0 +1,12 @@
+{
+  "name": "vscode-prettier-php",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write . --ignore-unknown"
+  },
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.18.2",
+    "prettier": "^2.5.1"
+  }
+}
